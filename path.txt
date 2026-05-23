@@ -1,17 +1,14 @@
-cd /c/Users/umeru/result_Analysis
+# Navigate to project folder in Git Bash
+cd /d/ai_developer/ml_project/result_Analysis
 
-Explanation
-- C: drive → written as /c/
-- Backslashes \ → replaced with forward slashes /
-- So C:\Users\umeru\result_Analysis becomes /c/Users/umeru/result_Analysis
+# Explanation:
+# - C: drive → written as /c/
+# - Backslashes (\) → replaced with forward slashes (/)
+# So C:\Users\umeru\result_Analysis becomes /c/Users/umeru/result_Analysis
 
-
-- To check your current path:
+# Check current path
 pwd
-- To list files in the directory:
+
+# List files in the directory
 ls
-
-
-👉 Once you run that cd command, your Git Bash terminal will be set to the result_Analysis folder.
-Do you want me to also show you how to make Git Bash always start in that folder by default?
 
